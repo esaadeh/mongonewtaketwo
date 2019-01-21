@@ -1,0 +1,28 @@
+{
+  "name": "mongonewtaketwo",
+  "version": "1.0.0",
+  "description": "take two",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esaadeh/mongonewtaketwo.git"
+  },
+  "author": "eks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esaadeh/mongonewtaketwo/issues"
+  },
+  "homepage": "https://github.com/esaadeh/mongonewtaketwo#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.5",
+    "path": "^0.12.7"
+  }
+}
